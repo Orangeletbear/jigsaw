@@ -59,7 +59,7 @@
 		<solar.version>3.0.0</solar.version>
 		<httpclient.version>4.5.3</httpclient.version>
 		<httpcore.version>4.4.6</httpcore.version>
-		<mysql.driver.version>6.0.6</mysql.driver.version>
+		<mysql.driver.version>8.0.16</mysql.driver.version>
 		<zookeeper.version>3.4.6</zookeeper.version>
 		<netty.version>4.0.36.Final</netty.version>
 		<resteasy.version>3.0.16.Final</resteasy.version>
